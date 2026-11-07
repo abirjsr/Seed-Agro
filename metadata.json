@@ -1,0 +1,6 @@
+{
+  "name": "Seed Agro CRM",
+  "description": "Apple UI-designed CRM dashboard for seed producers and importers featuring product inventory management, sales & lead tracking, live invoice generator, employee payroll, and financial reports. Created by Abir Das by animesoft.com",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
